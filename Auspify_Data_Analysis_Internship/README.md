@@ -60,7 +60,9 @@ The project is organized into six task-wise folders. Each task contains its corr
 
 This project demonstrates practical data analysis skills, including data cleaning, exploratory data analysis, data visualization, trend identification, and business insight generation using Python.
 
-**Internship Organization:** AuspiFy Technologies# Netflix Data Analysis Using Python
+**Internship Organization:** AuspiFy Technologies
+
+# Netflix Data Analysis Using Python
 
 ## Project Overview
 This project focuses on analyzing the Netflix dataset using Python to understand content distribution, country-wise contributions, release-year trends, content ratings, and genre patterns.
